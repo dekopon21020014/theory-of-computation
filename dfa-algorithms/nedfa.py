@@ -1,8 +1,9 @@
+#!/usr/bin/env python3
+
 # this is problem1
 # cd test/runner
 # sh P1.sh
 
-#!/usr/bin/env python3
 import sys #パイプでcatから受け取るため
 
 white_space = ' '

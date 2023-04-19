@@ -1,8 +1,9 @@
+#!/usr/bin/env python3
+
 # this is probrem3
 # cd test/runner
 # sh P2.sh ../../problem3.py
 
-#!/usr/bin/env python3
 import sys
 
 def read_input():
