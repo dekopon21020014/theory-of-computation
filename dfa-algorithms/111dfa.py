@@ -1,3 +1,8 @@
+#this is probrem4
+# cd test/runner
+# sh P4.sh > ../my_restult/P4.ans
+
+
 #!/usr/bin/env python3
 import sys
 
